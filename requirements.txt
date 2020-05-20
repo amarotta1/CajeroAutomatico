@@ -1,0 +1,5 @@
+certifi==2019.6.16
+chardet==3.0.4
+idna==2.8
+PyYAML==5.1.2
+six==1.12.0
