@@ -1,5 +1,5 @@
 from billetes import Billete_100,Billete_1000,Billete_200,Billete_500
-from cajero_completo import Cajero
+from cajero_completo_ex import Cajero
 import unittest
 from excepciones import MontoError, MontoMayor , CombinacionError, PorcentajeError, MontoNegativo , CajeroVacio
 
